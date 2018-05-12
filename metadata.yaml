@@ -19,6 +19,8 @@ creator:
 description: "Mr. Midshipman Easy is an 1836 novel by Frederick Marryat, a retired\
   \ captain in the Royal Navy. The novel is set during the Napoleonic Wars, in which\
   \ Marryat himself served with distinction.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21553#Mr.-Midshipman-Easy
 gutenberg_issued: '2007-05-21'
 gutenberg_type: Text
 identifiers:
