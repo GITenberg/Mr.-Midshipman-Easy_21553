@@ -1,0 +1,45 @@
+_repo: Mr.-Midshipman-Easy_21553
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryatt, Captain
+    - Marryat, Captain
+    - Marryat, F. W. (Frederick W.)
+    - Marryat, Kapitein
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: "Mr. Midshipman Easy is an 1836 novel by Frederick Marryat, a retired\
+  \ captain in the Royal Navy. The novel is set during the Napoleonic Wars, in which\
+  \ Marryat himself served with distinction.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2007-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21553'
+  wikidata: Q1936382
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Sea stories'
+- !lcsh 'War stories'
+- !lcsh 'Midshipmen -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Great Britain -- History, Naval -- 19th century -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Fiction'
+- !lcc 'PR'
+title: Mr. Midshipman Easy
+url: http://www.gutenberg.org/ebooks/21553
+wikipedia:
+- https://en.wikipedia.org/wiki/Mr_Midshipman_Easy
+- https://nl.wikipedia.org/wiki/Mr_Midshipman_Easy
